@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm M4XJUNG
+# 👋 Hi there, I'm MAXJUNG
 > "In God we trust. All others must bring data."
 > <br> (우리는 신을 믿는다. 하지만 그 외의 사람은 데이터를 가져와라. - W. Edwards Deming)
 
