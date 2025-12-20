@@ -24,19 +24,8 @@
 <br>
 
 ### 📊 Stats
-| Baekjoon (Algorithm) | GitHub Stats |
-| :---: | :---: |
 | [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=maxjung)](https://solved.ac/maxjung)| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M4XJUNG&show_icons=true&theme=default) |
-
-| <a href="https://solved.ac/maxjung"><img src="http://mazandi.herokuapp.com/api?handle=maxjung&theme=warm"/></a> | <img src="https://github-readme-stats.vercel.app/api?username=M4XJUNG&show_icons=true&theme=default"/> |
 
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4XJUNG&layout=compact&theme=default" />
-
-<br><br>
-
-<br>
-
-### 🏆 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M4XJUNG&layout=compact)
