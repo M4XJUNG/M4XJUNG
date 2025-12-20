@@ -1,12 +1,15 @@
 # 👋 Hi there, I'm MAXJUNG
 > "In God we trust. All others must bring data." - W. Edwards Deming
-> <br> (우리는 신을 믿는다. 하지만 그 외의 사람은 데이터를 가져와라.)
 
 ---
 
 ### 🛠️ Tech Stack
 ![Data Science & AI](https://img.shields.io/badge/Data%20Science%20%26%20AI-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white)
+
 
 <br>
 
