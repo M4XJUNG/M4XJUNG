@@ -1,6 +1,6 @@
-# 👋 Hi there, I'm MAXJUNG
-> "In God we trust. All others must bring data." <br>
-> (우리는 신을 믿는다. 하지만 그 외의 사람은 데이터를 가져와라. - W. Edwards Deming)
+# 👋 Hi there, I'm M4XJUNG
+> "In God we trust. All others must bring data."
+> <br> (우리는 신을 믿는다. 하지만 그 외의 사람은 데이터를 가져와라. - W. Edwards Deming)
 
 ---
 
@@ -13,7 +13,7 @@
 ### 📊 Stats
 | Baekjoon (Algorithm) | GitHub Stats |
 | :---: | :---: |
-| [![Baekjoon Profile](https://mazassumnida.vercel.app/api/v2/generate_badge?boj=maxjung&v=1)](https://solved.ac/maxjung) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M4XJUNG&show_icons=true&theme=default) |
+| [![Baekjoon Profile](http://mazandi.herokuapp.com/api?handle=maxjung&theme=warm)](https://solved.ac/maxjung) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M4XJUNG&show_icons=true&theme=default) |
 
 <br>
 
