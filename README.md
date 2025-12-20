@@ -1,8 +1,9 @@
-# 👋 Hi there, I'm [MAXJUNG]
-> "In God we trust. All others must bring data." (우리는 신을 믿는다. 하지만 그 외의 사람은 데이터를 가져와라. - W. Edwards Deming)* 
+# 👋 Hi there, I'm MAXJUNG
+> "In God we trust. All others must bring data." <br>
+> (우리는 신을 믿는다. 하지만 그 외의 사람은 데이터를 가져와라. - W. Edwards Deming)* 
 
 ### 🛠️ Tech Stack
-![Backend](https://img.shields.io/badge/Backend%20%26%20DevOps-green?style=flat-square&logo=spring)
+![Data Science & AI](https://img.shields.io/badge/Backend%20%26%20DevOps-green?style=flat-square&logo=spring)
 
 <br>
 
