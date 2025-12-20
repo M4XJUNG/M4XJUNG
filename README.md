@@ -13,7 +13,7 @@
 ### 📊 Stats
 | Baekjoon (Algorithm) | GitHub Stats |
 | :---: | :---: |
-| [![Baekjoon Profile](https://mazassumnida.vercel.app/api/v2/generate_badge?boj=maxjung)](https://solved.ac/profile/maxjung) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M4XJUNG&show_icons=true&theme=default) |
+| [![Baekjoon Profile](https://mazassumnida.vercel.app/api/v2/generate_badge?boj=maxjung&v=1)](https://solved.ac/maxjung) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M4XJUNG&show_icons=true&theme=default) |
 
 <br>
 
