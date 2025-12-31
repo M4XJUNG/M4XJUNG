@@ -13,12 +13,10 @@
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
-
-<!-- <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> -->
-<!-- <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"> -->
-
-<!-- <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"> -->
-<!-- <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> -->
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <!-- 주석 내용 -->
 
 <br>
@@ -28,6 +26,3 @@
 | :---: | :---: |
 | [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=maxjung)](https://solved.ac/maxjung)| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M4XJUNG&show_icons=true&theme=default) |
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4XJUNG&layout=compact&theme=default" />
