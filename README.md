@@ -4,11 +4,6 @@
 
 <br>
 
-# 👋 Hi there, I'm MAXJUNG
-> "In God we trust. All others must bring data." - W. Edwards Deming
-
----
-
 ### 🛠️ Tech Stack
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
