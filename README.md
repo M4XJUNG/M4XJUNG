@@ -21,3 +21,5 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=maxjung)](https://solved.ac/maxjung)
 
 -->
+
+금융 데이터 수집·처리 환경을 이해하고 직접 구현할 수 있으며, 그 데이터를 이용해 통계·ML 모델과 투자전략을 연구하고 연구 결과를 실제 사용할 수 있는 시스템으로 구현하는 사람
